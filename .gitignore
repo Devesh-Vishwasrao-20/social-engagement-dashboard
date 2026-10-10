@@ -1,0 +1,28 @@
+# Ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment/config files
+.env
+.env.*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data outputs (optional: remove if you want them committed)
+*.log
+
+# Editor settings
+.vscode/
+.idea/
