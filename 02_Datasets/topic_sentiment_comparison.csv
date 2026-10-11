@@ -1,1 +1,20 @@
-topic,positive_sentiment,negative_sentiment,comparison_metric
+topic,engagement_rate,positive_sentiment,video_count
+Business and Entrepreneurship,3.1564621570839475,62.5,10
+Comedy,1.2500487893416057,66.22222222222223,10
+Data Science and Artificial Intelligence,3.011203911649283,63.1,10
+Digital Marketing and Social Media,3.379467117515938,72.26153846153846,10
+Entertainment and Movies,1.3097912111867638,69.0,10
+Fashion and Beauty,1.3219523196223633,64.22631578947369,10
+Finance and Investing,3.6399814649370903,61.8,10
+Fitness and Health,2.0543436231101024,71.0,10
+Food and Cooking,2.392613065629217,51.666666666666664,10
+Gaming,1.2686279618434853,57.8,10
+Lifestyle and Vlogging,1.034340801458169,75.7,10
+Motivation and Self-Improvement,2.0160903119225138,60.0,10
+Music,0.5251886556182138,59.55555555555556,10
+News and Current Affairs,3.154812414861426,56.55555555555556,10
+Photography and Videography,3.524833368241103,67.3,10
+Science and Space,1.6348762398315302,55.0,10
+Sports,2.011411087630272,61.0,10
+Technology,1.6469969558716886,47.5,10
+Travel and Tourism,1.8784910748406425,69.5,10
