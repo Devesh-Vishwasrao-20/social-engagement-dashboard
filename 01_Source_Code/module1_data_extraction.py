@@ -1,4 +1,7 @@
 
+"""Module 1: data extraction."""
+
+
 # ---- Extracted from notebook cell 2 ----
 from google.colab import userdata
 from googleapiclient.discovery import build
